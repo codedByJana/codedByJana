@@ -1,4 +1,4 @@
-<h1> <img src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif" width="auto"/><br> 今日は - أهلا - Hi - Bună </h1>
+<h1> <img src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif" width="100%"/><br> 今日は - أهلا - Hi - Bună </h1>
 
 ```PowerShell
 #Personal Info
