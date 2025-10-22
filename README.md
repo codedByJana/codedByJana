@@ -12,5 +12,6 @@ Languages = @("Java, Python, CPP")
 Technologies = @("Linux, PowerShell, Cisco PT")
 
 ```
----------------------------------
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4947848" style='border:none;'></iframe>
+---
+
+[[TryHackMe Stats](https://tryhackme.com/p/Solitarius1upus)]
