@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1> <img src="https://secure.static.tumblr.com/ef2e2596c4ea072a60453d23ceab337f/coctv14/Y6Ln55n03/tumblr_static_azgsowaz948okgow4c4o8go8c.gif" width="auto"/><br> 今日は - أهلا - Hi - Bună </h1>
+----
 
-<!--
-**codedByJana/codedByJana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```PowerShell
+#Personal Info
+$Name = "Jana Hany"
+$Role = "Information Technology Student"
+$Learning = "Cybersecurity"
+$yee = "haww"
 
-Here are some ideas to get you started:
+#Tech Stack
+$tech  = @{
+Languages = @("Java, Python, CPP")
+Technologies = @("Linux, PowerShell, Cisco PT")
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+---------------------------------
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4947848" style='border:none;'></iframe>
