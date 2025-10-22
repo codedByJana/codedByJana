@@ -13,5 +13,4 @@ Technologies = @("Linux, PowerShell, Cisco PT")
 
 ```
 ---
-
 [[TryHackMe Stats](https://tryhackme.com/p/Solitarius1upus)]
